@@ -25,23 +25,28 @@ QR Code Scanner App: An App made in python using libraries : cv2(opencv), webbro
    ```bash
    pip install opencv-python
    ```
+    ```bash
+   pip install  pyqrcode
+   ```
+     ```bash
+   pip install  png
+   ```
+
 
 3. Run the application:
 
    ```bash
    python main.py
    ```
+   ```bash
+   python creator.py
+   ```
 
 4. Add, manage, and track your tasks using the intuitive UI.
 
 ## Screenshots
 
-(![Calculator_Screenshot1](https://github.com/user-attachments/assets/6f65b625-9730-4ac8-848d-2951b4bbe300)
-)
-(![Calculator_Screenshot2](https://github.com/user-attachments/assets/e280673e-f3fb-4422-bd52-701b2d99a79b)
-)
-(![Calculator_Screenshot3](https://github.com/user-attachments/assets/c0d79ef6-aa20-41cb-baa9-ee871c6da8c5)
-)
+
 
 ## Dependencies
 
