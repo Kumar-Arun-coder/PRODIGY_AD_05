@@ -45,12 +45,26 @@ QR Code Scanner App: An App made in python using libraries : cv2(opencv), webbro
 4. Add, manage, and track your tasks using the intuitive UI.
 
 ## Screenshots
+(![Screenshot 2024-09-02 152458](https://github.com/user-attachments/assets/94cdfa61-0dff-4b0e-8892-03cd04de2963)
+)
+(![Screenshot 2024-09-02 152514](https://github.com/user-attachments/assets/bc4a78b9-cfa3-4645-86df-92a0f045eb15)
+)
+(![Screenshot 2024-09-02 152621](https://github.com/user-attachments/assets/1d4d3b0e-a63e-4c1d-bfb2-63a0fe8b7abc)
+)
+(![Screenshot 2024-09-02 152635](https://github.com/user-attachments/assets/5350e5b1-ecf9-4d17-b25c-3d126d44b435)
+)
+(![Screenshot 2024-09-02 152657](https://github.com/user-attachments/assets/125f0c55-2dfb-4fab-ad78-42b59135084f)
+)
+(![Screenshot 2024-09-02 152720](https://github.com/user-attachments/assets/584b7d03-34a7-42b0-9d07-f55631e45046)
+)
+
 
 
 
 ## Dependencies
 
-- [Kivy](https://kivy.org/)
+- [opencv](https://opencv.org/)
+  
 
 ## Contributing
 
