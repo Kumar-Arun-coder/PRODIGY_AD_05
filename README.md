@@ -2,13 +2,12 @@
 
 ## Description
 
-Calculator App: A simple, intuitive, and easy-to-use app is created using a Python framework for developing multitouch applications, and uix extension to Kivy providing Material Design components & themes. The app allows users to perform Basic arithmetic operations , Supports decimal numbers and Clear and intuitive interface.
-
+QR Code Scanner App: An App made in python using libraries : cv2(opencv), webbrowser to scan a QRcode using the system camera and redirecting the page to the web browser, along with that crater app to create a Qr code of any website using pyqrcode ,png libraries.
 ## Features
 
-- Basic arithmetic operations: addition, subtraction, multiplication, division, power and percentage.
-- Supports decimal numbers and calculations.
-- Clear and intuitive interface.
+- Can scan a QRcode using the system camera
+- redirecting the page to the web browser
+- Clear and intuitive interface
 - Responsive design for various screen sizes
 - Built with Python and Kivy library for cross-platform compatibility
 
@@ -18,13 +17,13 @@ Calculator App: A simple, intuitive, and easy-to-use app is created using a Pyth
 1. Clone this repository:
 
    ```bash
-   https://github.com/Kumar-Arun-coder/PRODIGY_AD_01
+   https://github.com/Kumar-Arun-coder/PRODIGY_AD_05
    ```
 
 2. Install dependencies using pip:
 
    ```bash
-   pip install kivy 
+   pip install opencv-python
    ```
 
 3. Run the application:
